@@ -14,9 +14,9 @@ Any future updates or work by **Arshan Khan** will be recorded here.
 
 ### Launcher Screenshots
 
-[home page of the launcher](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/launcher_main.jpg?raw=true)
+![home page of the launcher](screenshots/launcher_main.jpg)
 
-[scoreboard page](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/score_maze.jpg?raw=true)
+![scoreboard page](screenshots/score_maze.jpg)
 
 ### Pong Gameplay
 
@@ -24,15 +24,15 @@ pics
 
 ### Maze Screenshots
 
-[maze main menu](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/maze_main.jpg?raw=true)
+![maze main menu](screenshots/maze_main.jpg)
 
-[maze difficulty menu](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/maze_diff.jpg?raw=true)
+![maze difficulty menu](screenshots/maze_diff.jpg)
 
-[maze game screen](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/maze_med.jpg?raw=true)
+![maze game screen](screenshots/maze_med.jpg)
 
-[maze end screen](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/maze_end.jpg?raw=true)
+![maze end screen](screenshots/maze_end.jpg)
 
 ### Flappy Screenshots
 
-[flappy game screen](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/flappy_main.jpg?raw=true)
+![flappy game screen](https://github.com/ArshanK/MiniArcade/blob/main/screenshots/flappy_main.jpg?raw=true)
 
