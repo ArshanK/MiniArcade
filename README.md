@@ -25,7 +25,7 @@ Any future updates or work by **Arshan Khan** will be recorded here.
 ### Pong Gameplay
 
 - Pong - Sample gameplay
-- A full video of the gameplay is available at https://youtu.be/xLBJqTBa2bA
+- A full video of the gameplay is available at https://youtu.be/AHP4QxycyCc
 
 ![pong gameplay](screenshots/newPong.gif) <br /> <br />
 
