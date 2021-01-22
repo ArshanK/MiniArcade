@@ -12,6 +12,13 @@ This project is a reimplementation of several simple python games. Along with th
 
 Any future updates or work by **Arshan Khan** will be recorded here.
 
+### Pong Gameplay
+
+- Pong - Sample gameplay
+- A full video of the gameplay is available at https://youtu.be/AHP4QxycyCc
+
+![pong gameplay](screenshots/newPong.gif) <br /> <br />
+
 ### Launcher Screenshots
 
 - Mini Arcade Launcher home page
@@ -21,13 +28,6 @@ Any future updates or work by **Arshan Khan** will be recorded here.
 - Scoreboard page
 
 ![scoreboard page](screenshots/score_maze.jpg) <br /> <br />
-
-### Pong Gameplay
-
-- Pong - Sample gameplay
-- A full video of the gameplay is available at https://youtu.be/AHP4QxycyCc
-
-![pong gameplay](screenshots/newPong.gif) <br /> <br />
 
 ### Maze Screenshots
 
