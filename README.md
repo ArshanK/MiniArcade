@@ -10,6 +10,8 @@ Team Members and Responsibilities:
 
 This project is a reimplementation of several simple python games. Along with the redesign of these games we are designing a launcher for these minigames to select which game the user would like to play. The arrow keys are used for the main game controls; extra game controls (if any) are specified in each game.
 
+Original documentation can be found <a href="https://gitlab.cas.mcmaster.ca/khana172/3xa3-project/-/tree/master/Doc" target="_blank">at this site</a>.
+
 Any future updates or work by **Arshan Khan** will be recorded here.
 
 ### Pong Gameplay
